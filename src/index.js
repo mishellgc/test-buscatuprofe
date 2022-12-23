@@ -32,7 +32,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use('/api/auth', require('./routes/auth.routes'));
 app.use('/api/users', require('./routes/user.routes'));
 app.use('/api/services', require('./routes/service.routes'));
-app.use('/api/tutors', require('./routes/tutor.routes'));
+app.use('/api/pets', require('./routes/pet.routes'));
 
 // Static files (Archivos estáticos)
 // ---------------------------------------------------------------

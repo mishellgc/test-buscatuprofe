@@ -5,10 +5,10 @@
 Clonar el presente repositorio en el directorio de su agrado con la siguiente línea de comando:
 
 ```
-git clone https://github.com/aleeMR/PJ-Tutolin.git
+git clone 
 ```
 
-Ingresar a la carpeta `...\backend` de la dirección donde se encuentra ubicado el proyecto y ejecutar el comando:
+Ingresar a la carpeta `` de la dirección donde se encuentra ubicado el proyecto y ejecutar el comando:
 
 ```
 npm install
